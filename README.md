@@ -1,4 +1,4 @@
-# admin_side_eshop_app
+# E-shop app Flutter project
 
 A new Flutter project.
 
